@@ -1,0 +1,44 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Dra. Silvia Hoyos",
+  "official_website": "https://www.drasilviahoyos.com/",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://static.wixstatic.com/media/3d4cc6_e77a89c911084c30b96241a207e84cd4%7Emv2.jpg",
+      "source_page": "https://www.drasilviahoyos.com/",
+      "role": "hero",
+      "original_caption": "embedded"
+    },
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://static.wixstatic.com/media/3d4cc6_e77a89c911084c30b96241a207e84cd4%7Emv2.jpg",
+      "source_page": "https://www.drasilviahoyos.com/",
+      "role": "portrait",
+      "original_caption": "embedded"
+    },
+    {
+      "file": "assets/detail.webp",
+      "source_url": "https://static.wixstatic.com/media/3d4cc6_f05e34d54e734be689af0d65bd50816cf003.jpg",
+      "source_page": "https://www.drasilviahoyos.com/",
+      "role": "detail",
+      "original_caption": "embedded"
+    },
+    {
+      "file": "assets/case1.webp",
+      "source_url": "https://static.wixstatic.com/media/3d4cc6_c4b540b0d182452cb475131d981fa101f000.jpg",
+      "source_page": "https://www.drasilviahoyos.com/",
+      "role": "case1",
+      "original_caption": "embedded"
+    },
+    {
+      "file": "assets/case2.webp",
+      "source_url": "https://static.wixstatic.com/media/3d4cc6_f05e34d54e734be689af0d65bd50816cf001.jpg",
+      "source_page": "https://www.drasilviahoyos.com/",
+      "role": "case2",
+      "original_caption": "embedded"
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
